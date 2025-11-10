@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"src","c":"IdealWeightCalculator","l":"IdealWeightCalculator()","u":"%3Cinit%3E()"},{"p":"src","c":"IdealWeightCalculator","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
